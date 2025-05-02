@@ -1,0 +1,2043 @@
+[
+    {
+        "@timestamp": "2025-04-30 18:17:40.146",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8048060024\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:17:39.936Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:17:39.936Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:17:39.936Z\"}],\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"TIFFANY TURNER\",\"roleType\":\"BORROWER\",\"appId\":\"5016960\",\"teamMemberId\":\"SYSTEM\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:17:39.936Z\"}",
+            "metadata": {
+                "_interactionId": "24340730-7917-4901-BACF-87935DBBC5D7",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:17:40.146Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:17:34.774",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8505394810\",\"phoneType\":\"HOME\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:17:34.550Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:17:34.550Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:17:34.550Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:17:34.550Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:17:34.550Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:17:34.550Z\"}],\"metadata\":{\"sourceChannel\":\"SKIP_TRACE\",\"customerName\":\"NICHOLAS BYRD\",\"roleType\":\"BORROWER\",\"uaiId\":\"0871993326637\",\"teamMemberId\":\"H2212770\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:17:34.550Z\"}",
+            "metadata": {
+                "_interactionId": "EDDBE1D6-9533-46EC-96BD-E251C86A75CC",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:17:34.774Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:17:23.670",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9703024308\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:17:23-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:17:23-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:17:23-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:17:23-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Linda MENDEZ\",\"appId\":\"367069683\"},\"updatedAt\":\"2025-04-30T13:17:23-05:00\"}",
+            "metadata": {
+                "_interactionId": "owoo357h9u2f7k9qz2f9sfx0",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:17:23.670Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:17:19.668",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"2546993117\",\"phoneType\":\"HOME\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:17:19.371Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:17:19.371Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:17:19.371Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:17:19.371Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:17:19.371Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:17:19.371Z\"}],\"contactStatus\":\"DONOTCALL\",\"contactStatusUpdateTimestamp\":\"2025-04-30T18:17:19.371Z\",\"metadata\":{\"sourceChannel\":\"VERBAL\",\"appId\":\"5020590\",\"uaiId\":\"1059866227350\",\"teamMemberId\":\"B2215563\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:17:19.371Z\"}",
+            "metadata": {
+                "_interactionId": "833BAE28-2F2B-47B2-8953-AF17A1CB6D95",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:17:19.667Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:17:09.486",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7864999991\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:17:07.891Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:17:07.891Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:17:07.891Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:17:07.891Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:17:07.891Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:17:07.891Z\"}],\"contactStatus\":\"PREFERRED\",\"contactStatusUpdateTimestamp\":\"2025-04-30T18:17:07.891Z\",\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"BERNADETTE ROBERTS\",\"roleType\":\"BORROWER\",\"uaiId\":\"4840630027206\",\"teamMemberId\":\"B3302248\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:17:07.891Z\"}",
+            "metadata": {
+                "_interactionId": "0F660897-7CB9-4CCF-9B39-D0595DC28422",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:17:09.486Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:17:09.279",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5596708147\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:17:09-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:17:09-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:17:09-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:17:09-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Christy Carrasco\",\"appId\":\"367069589\"},\"updatedAt\":\"2025-04-30T13:17:09-05:00\"}",
+            "metadata": {
+                "_interactionId": "lmhavs1hk7zt9rww9lmc3hr2",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:17:09.279Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:17:06.668",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8125988476\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:17:06.478Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:17:06.478Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:17:06.478Z\"}],\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"ROBBIE G STEVENS\",\"roleType\":\"BORROWER\",\"appId\":\"5011500\",\"teamMemberId\":\"B3302527\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:17:06.478Z\"}",
+            "metadata": {
+                "_interactionId": "D8292FCA-3435-425F-BC08-2353598C1620",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:17:06.668Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:17:06.147",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8124318436\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:17:05.827Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:17:05.827Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:17:05.827Z\"}],\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"STACY STEVENS\",\"roleType\":\"CO_BORROWER\",\"appId\":\"5011500\",\"teamMemberId\":\"B3302527\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:17:05.827Z\"}",
+            "metadata": {
+                "_interactionId": "89884624-313D-4CA1-8B1D-58BB1BA3ADAF",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:17:06.147Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:17:02.519",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5157776400\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:17:02-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:17:02-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:17:02-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:17:02-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Celsie Van Wey\",\"appId\":\"367069638\"},\"updatedAt\":\"2025-04-30T13:17:02-05:00\"}",
+            "metadata": {
+                "_interactionId": "eqjjl10xcpfrta00u3iezieg",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:17:02.518Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:17:00.498",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"4237400755\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:17:00-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:17:00-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:17:00-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:17:00-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Darlene  Lowe \",\"appId\":\"367069626\"},\"updatedAt\":\"2025-04-30T13:17:00-05:00\"}",
+            "metadata": {
+                "_interactionId": "wf6nbqxixcd3mix05ud7ldt8",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:17:00.498Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:48.776",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5596708147\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:48-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:48-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:48-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:48-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Christy Carrasco\",\"appId\":\"367069589\"},\"updatedAt\":\"2025-04-30T13:16:48-05:00\"}",
+            "metadata": {
+                "_interactionId": "bvuz94y3mh415z4ugr8fg9tg",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:48.776Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:36.407",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"3026783454\",\"phoneType\":\"HOME\",\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"JUWAN VALENTINE\",\"roleType\":\"BORROWER\",\"uaiId\":\"0886622827427\",\"teamMemberId\":\"B3300294\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:16:36.162Z\"}",
+            "metadata": {
+                "_interactionId": "AEFD6C8C-983E-4E9B-AD34-EDDD701B2996",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:36.407Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:33.142",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5625528207\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:33-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:33-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:33-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:33-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Ariel Rivers\",\"appId\":\"367069552\"},\"updatedAt\":\"2025-04-30T13:16:33-05:00\"}",
+            "metadata": {
+                "_interactionId": "ahapeo46oq9zak9mtz5crhyp",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:33.142Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:30.363",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8053632506\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:16:30.116Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:16:30.116Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:16:30.116Z\"}],\"contactStatus\":\"PREFERRED\",\"contactStatusUpdateTimestamp\":\"2025-04-30T18:16:30.116Z\",\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"EVA COLEMAN\",\"roleType\":\"BORROWER\",\"uaiId\":\"3448264426247\",\"teamMemberId\":\"B3300114\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:16:30.116Z\"}",
+            "metadata": {
+                "_interactionId": "3BCB3AD4-7301-460A-B943-09658FE424D4",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:30.363Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:29.974",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"4482207197\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:29.767Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:29.767Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:29.767Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:29.767Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:29.767Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:29.767Z\"}],\"metadata\":{\"sourceChannel\":\"SYSTEM\",\"customerName\":\"NICHOLAS BYRD\",\"uaiId\":\"0871993326637\",\"teamMemberId\":\"H2212770\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:16:29.767Z\"}",
+            "metadata": {
+                "_interactionId": "F9206475-1C3F-43AC-9358-C92F1B911E85",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:29.974Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:28.713",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7075159592\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:28-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:28-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:28-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:28-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Derrick Maynard\",\"appId\":\"367069537\"},\"updatedAt\":\"2025-04-30T13:16:28-05:00\"}",
+            "metadata": {
+                "_interactionId": "e0l8r8e12azum8xp4m23gmbn",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:28.713Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:23.996",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8502126169\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:23.759Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:23.759Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:23.759Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:23.759Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:23.759Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:23.759Z\"}],\"metadata\":{\"sourceChannel\":\"SYSTEM\",\"customerName\":\"NICHOLAS BYRD\",\"uaiId\":\"0871993326637\",\"teamMemberId\":\"H2212770\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:16:23.759Z\"}",
+            "metadata": {
+                "_interactionId": "800C89F8-4130-4509-8B5E-342D084ABB67",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:23.996Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:21.630",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9414165975\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:21-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:21-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:21-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:21-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Skyler Velez\",\"appId\":\"367069515\"},\"updatedAt\":\"2025-04-30T13:16:21-05:00\"}",
+            "metadata": {
+                "_interactionId": "qjrhcoddwp31zbxfldlob6ue",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:21.630Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:21.042",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9517332867\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:16:20.730Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:16:20.730Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:16:20.730Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:16:20.730Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:16:20.730Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:16:20.730Z\"}],\"metadata\":{\"sourceChannel\":\"APPLICATION\",\"customerName\":\"YVONNE HAMMON\",\"roleType\":\"BORROWER\",\"uaiId\":\"4952070926805\",\"teamMemberId\":\"B3300053\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:16:20.730Z\"}",
+            "metadata": {
+                "_interactionId": "B8772415-A8CD-466A-969F-F8C5B28CE426",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:21.042Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:20.693",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"6317393628\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:20-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:20-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:20-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:20-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Matthew Harbin\",\"appId\":\"367069507\"},\"updatedAt\":\"2025-04-30T13:16:20-05:00\"}",
+            "metadata": {
+                "_interactionId": "o2yqmuogq6uout29qp5igz1d",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:20.693Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:19.003",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"3302420516\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:18-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:18-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:18-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:18-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"CODY HINDES\",\"appId\":\"367069506\"},\"updatedAt\":\"2025-04-30T13:16:18-05:00\"}",
+            "metadata": {
+                "_interactionId": "clmrl7hfhnk8jhz7dzxb29zz",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:19.003Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:17.297",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8502416534\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:17.072Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:17.072Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:17.072Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:17.072Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:17.072Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:17.072Z\"}],\"metadata\":{\"sourceChannel\":\"SYSTEM\",\"customerName\":\"NICHOLAS BYRD\",\"uaiId\":\"0871993326637\",\"teamMemberId\":\"H2212770\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:16:17.072Z\"}",
+            "metadata": {
+                "_interactionId": "93930B66-3A97-47BC-89C6-AB168355035A",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:17.297Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:12.059",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5024098854\",\"phoneType\":\"HOME\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:11.768Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:11.768Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:11.768Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:11.768Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:11.768Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:11.768Z\"}],\"contactStatus\":\"DONOTCALL\",\"contactStatusUpdateTimestamp\":\"2025-04-30T18:16:11.768Z\",\"metadata\":{\"sourceChannel\":\"VERBAL\",\"appId\":\"5015330\",\"uaiId\":\"7344533226535\",\"teamMemberId\":\"B2223498\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:16:11.768Z\"}",
+            "metadata": {
+                "_interactionId": "1B4A838F-B45F-4DB4-A444-DC9236701874",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:12.059Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:11.727",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9089061107\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:11-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:11-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:11-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:11-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"JOSE MOREJON\",\"appId\":\"367069445\"},\"updatedAt\":\"2025-04-30T13:16:11-05:00\"}",
+            "metadata": {
+                "_interactionId": "wkpm5som5ic30v84bj4qn9mu",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:11.727Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:11.652",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"4803955356\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:11-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:11-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:11-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:11-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Gabriel Young\",\"appId\":\"367069490\"},\"updatedAt\":\"2025-04-30T13:16:11-05:00\"}",
+            "metadata": {
+                "_interactionId": "bd4v8e0ig0pqmuoh2b5xxvci",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:11.652Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:11.040",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8505249424\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:10.825Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:10.825Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:10.825Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:10.825Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:10.825Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:10.825Z\"}],\"metadata\":{\"sourceChannel\":\"SYSTEM\",\"customerName\":\"NICHOLAS BYRD\",\"uaiId\":\"0871993326637\",\"teamMemberId\":\"H2212770\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:16:10.825Z\"}",
+            "metadata": {
+                "_interactionId": "DAA795DF-8F7E-4628-BDC1-E96AA9934665",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:11.040Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:10.644",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9089373552\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:16:10.404Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:16:10.404Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:16:10.404Z\"}],\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"GISSETH LOPEZ\",\"roleType\":\"BORROWER\",\"appId\":\"5029500\",\"teamMemberId\":\"SYSTEM\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:16:10.404Z\"}",
+            "metadata": {
+                "_interactionId": "3A8FB66B-38C5-42DA-B015-2AEF1A475848",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:10.644Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:08.716",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7139063203\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:08.467Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:08.467Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:08.467Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:08.467Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:08.467Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:08.467Z\"}],\"metadata\":{\"sourceChannel\":\"SKIP_TRACE\",\"customerName\":\"ARTURO ALVARADO\",\"roleType\":\"BORROWER\",\"uaiId\":\"0985351927051\",\"teamMemberId\":\"B5045874\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:16:08.467Z\"}",
+            "metadata": {
+                "_interactionId": "E795E696-54DD-4E1C-820D-5FA021E37B5E",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:08.716Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:08.104",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"6148069042\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:08-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:08-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:08-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:08-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Eric Eggleton\",\"appId\":\"367069390\"},\"updatedAt\":\"2025-04-30T13:16:08-05:00\"}",
+            "metadata": {
+                "_interactionId": "y82519c9garh7hensn50l9bo",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:08.104Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:05.871",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9046557535\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:16:05.591Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:16:05.591Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:16:05.591Z\"}],\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"VANESSA RESPESS\",\"roleType\":\"BORROWER\",\"appId\":\"5013190\",\"teamMemberId\":\"SYSTEM\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:16:05.591Z\"}",
+            "metadata": {
+                "_interactionId": "3A448C79-FE70-4474-8CC4-BAD1575EB5C4",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:05.871Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:05.133",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"2096631989\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:16:04.932Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:16:04.932Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:16:04.932Z\"}],\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"BRIAN SIMS\",\"roleType\":\"BORROWER\",\"appId\":\"5010430\",\"teamMemberId\":\"SYSTEM\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:16:04.932Z\"}",
+            "metadata": {
+                "_interactionId": "9F041939-9E46-4F43-883C-1440961D01A4",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:05.133Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:04.107",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"6462038453\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:04-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:04-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:04-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:04-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Scott Van Reeth\",\"appId\":\"367069476\"},\"updatedAt\":\"2025-04-30T13:16:04-05:00\"}",
+            "metadata": {
+                "_interactionId": "tdcxfc4n8a18vk8swbbxt1tb",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:04.106Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:03.674",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7713289821\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:03-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:03-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:03-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:03-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"mireyadelrayito magallanes de luna \",\"appId\":\"367069480\"},\"updatedAt\":\"2025-04-30T13:16:03-05:00\"}",
+            "metadata": {
+                "_interactionId": "s8n26mx9uy4lfl07jzzyuysn",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:03.674Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:02.815",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9092106321\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:16:02.603Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:16:02.603Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:16:02.603Z\"}],\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"FIDEL MARTINEZ\",\"roleType\":\"BORROWER\",\"appId\":\"5018810\",\"teamMemberId\":\"SYSTEM\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:16:02.603Z\"}",
+            "metadata": {
+                "_interactionId": "E5082A55-7606-458B-A654-FD966DC68E5F",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:02.815Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:02.282",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8505194351\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:02.008Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:02.008Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:02.008Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:02.008Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:02.008Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:16:02.008Z\"}],\"metadata\":{\"sourceChannel\":\"SKIP_TRACE\",\"customerName\":\"NICHOLAS BYRD\",\"roleType\":\"BORROWER\",\"uaiId\":\"0871993326637\",\"teamMemberId\":\"H2212770\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:16:02.008Z\"}",
+            "metadata": {
+                "_interactionId": "784FC51C-D3B1-4A97-8B07-222D06725D24",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:02.281Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:16:02.230",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5714732280\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:02-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:16:02-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:02-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:16:02-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Patience Owusu\",\"appId\":\"367069468\"},\"updatedAt\":\"2025-04-30T13:16:02-05:00\"}",
+            "metadata": {
+                "_interactionId": "g9rumj4rnyzd7omdglk63w9b",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:16:02.229Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:59.012",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5092228733\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:58.824Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:58.824Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:58.824Z\"}],\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"BRET PECK\",\"roleType\":\"BORROWER\",\"appId\":\"5020350\",\"teamMemberId\":\"SYSTEM\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:58.824Z\"}",
+            "metadata": {
+                "_interactionId": "DD1E8259-C42C-4637-B0E3-DFBEC5527BFF",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:59.012Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:57.561",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"2072981381\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:57-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:57-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:57-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:57-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"David Thibeau\",\"appId\":\"367069274\"},\"updatedAt\":\"2025-04-30T13:15:57-05:00\"}",
+            "metadata": {
+                "_interactionId": "zz0bqi20jlcgcvex3ter5zrf",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:57.560Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:55.891",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8603332397\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:55-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:55-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:55-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:55-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"CARRIE BRANTLEY\",\"appId\":\"367061931\"},\"updatedAt\":\"2025-04-30T13:15:55-05:00\"}",
+            "metadata": {
+                "_interactionId": "r3cimodkwzzaub0p0rr9qewg",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:55.891Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:53.756",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"6462038453\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:53-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:53-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:53-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:53-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Scott Van Reeth\",\"appId\":\"367069439\"},\"updatedAt\":\"2025-04-30T13:15:53-05:00\"}",
+            "metadata": {
+                "_interactionId": "b7lj9e60uidvz6libzzpco0a",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:53.755Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:52.656",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8053251061\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:52.427Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:52.427Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:52.427Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:52.427Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:52.427Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:52.427Z\"}],\"contactStatus\":\"INVALID\",\"contactStatusUpdateTimestamp\":\"2025-04-30T18:15:52.427Z\",\"metadata\":{\"sourceChannel\":\"SYSTEM\",\"customerName\":\"EVA COLEMAN\",\"uaiId\":\"3448264426247\",\"teamMemberId\":\"B3300114\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:52.427Z\"}",
+            "metadata": {
+                "_interactionId": "1946DE11-11C0-4A93-852A-909054669526",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:52.656Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:52.511",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"4259961101\",\"phoneType\":\"CELL\",\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"DALLAS S LIEBE\",\"roleType\":\"CO_BORROWER\",\"appId\":\"5015940\",\"teamMemberId\":\"B2231221\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:52.295Z\"}",
+            "metadata": {
+                "_interactionId": "E86AEDC9-9D42-4408-B251-FBAA1B725818",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:52.511Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:50.567",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"2677743236\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:50.319Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:50.319Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:50.319Z\"}],\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"MAKAYLA ALSTON\",\"roleType\":\"BORROWER\",\"appId\":\"5014410\",\"teamMemberId\":\"SYSTEM\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:50.319Z\"}",
+            "metadata": {
+                "_interactionId": "8009DDB5-3510-42A4-A527-AE8A1E26D202",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:50.567Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:49.885",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9158880670\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:49-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:49-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:49-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:49-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"berenice Lopez\",\"appId\":\"367069416\"},\"updatedAt\":\"2025-04-30T13:15:49-05:00\"}",
+            "metadata": {
+                "_interactionId": "ozord3q5cbvd5sjfaui14z97",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:49.885Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:49.292",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"2144972181\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:49-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:49-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:49-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:49-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Brian Rigley\",\"appId\":\"367069428\"},\"updatedAt\":\"2025-04-30T13:15:49-05:00\"}",
+            "metadata": {
+                "_interactionId": "fkthqys27a9b5203xkdwnre0",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:49.291Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:45.925",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"3144770464\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:45.571Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:45.571Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:45.571Z\"}],\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"DENICE STRAYHORN\",\"roleType\":\"BORROWER\",\"appId\":\"5017390\",\"teamMemberId\":\"B2226261\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:45.571Z\"}",
+            "metadata": {
+                "_interactionId": "C1887F9B-15BE-4327-9D3B-995E24EB8636",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:45.925Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:45.322",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8324724459\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:45-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:45-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:45-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:45-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Kyle  Wilder\",\"appId\":\"367069408\"},\"updatedAt\":\"2025-04-30T13:15:45-05:00\"}",
+            "metadata": {
+                "_interactionId": "bnj8qab70cy3hvcxqfim1ulx",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:45.322Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:44.589",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5714732280\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:44-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:44-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:44-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:44-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Patience Owusu\",\"appId\":\"367069409\"},\"updatedAt\":\"2025-04-30T13:15:44-05:00\"}",
+            "metadata": {
+                "_interactionId": "eieodaj12ttd6qhulsxn1ow2",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:44.589Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:44.212",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"2404864406\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:44.024Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:44.024Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:44.024Z\"}],\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"YEMI OLADIMEJI\",\"roleType\":\"BORROWER\",\"appId\":\"5011250\",\"teamMemberId\":\"SYSTEM\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:44.024Z\"}",
+            "metadata": {
+                "_interactionId": "DB1AA6EA-0F7F-404C-9034-43C033F85319",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:44.212Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:40.620",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"6148069042\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:40-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:40-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:40-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:40-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Eric Eggleton\",\"appId\":\"367069390\"},\"updatedAt\":\"2025-04-30T13:15:40-05:00\"}",
+            "metadata": {
+                "_interactionId": "v64qulmspi9qqh4b2a07nsq8",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:40.620Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:40.321",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"2604447033\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:40-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:40-05:00\"}],\"hasConsented\":true},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:40-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:40-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Chelsey Bowman\",\"appId\":\"367069395\"},\"updatedAt\":\"2025-04-30T13:15:40-05:00\"}",
+            "metadata": {
+                "_interactionId": "dscq3z2rhpmbq3v21iqobejc",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:40.321Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:37.582",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7035956434\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:37-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:37-05:00\"}],\"hasConsented\":true},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:37-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:37-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Kamaal Horton\",\"appId\":\"367069391\"},\"updatedAt\":\"2025-04-30T13:15:37-05:00\"}",
+            "metadata": {
+                "_interactionId": "s47bmnvbvwyj5znhef43w3ao",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:37.582Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:36.593",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9194130633\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:36.240Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:36.240Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:36.240Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:36.240Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:36.240Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:36.240Z\"}],\"contactStatus\":\"INVALID\",\"contactStatusUpdateTimestamp\":\"2025-04-30T18:15:36.240Z\",\"metadata\":{\"sourceChannel\":\"SYSTEM\",\"customerName\":\"SHANICE SINGLETARY\",\"uaiId\":\"5773413126441\",\"teamMemberId\":\"B3302943\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:36.240Z\"}",
+            "metadata": {
+                "_interactionId": "2147B63E-D600-4F4B-900D-6DC770128500",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:36.593Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:35.767",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8652581790\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:35.436Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:35.436Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:35.436Z\"}],\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"DUSTIN CLOUD\",\"roleType\":\"BORROWER\",\"appId\":\"5014610\",\"teamMemberId\":\"B3303467\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:35.436Z\"}",
+            "metadata": {
+                "_interactionId": "BC976552-1D6C-441C-BC76-FF7CF327B192",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:35.767Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:35.763",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8307347872\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:35.377Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:35.377Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:35.377Z\"}],\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"JOSE ALVARADO\",\"roleType\":\"BORROWER\",\"appId\":\"5005210\",\"teamMemberId\":\"B2217245\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:35.377Z\"}",
+            "metadata": {
+                "_interactionId": "82FCE466-003B-4FC6-B4A3-C2A9EFF77974",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:35.763Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:34.912",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9015150576\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:34-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:34-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:34-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:34-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Laquoita Cunningham\",\"appId\":\"367069331\"},\"updatedAt\":\"2025-04-30T13:15:34-05:00\"}",
+            "metadata": {
+                "_interactionId": "pqfmbeacbxquwqwp4ukv58v3",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:34.912Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:34.525",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"6168286344\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:34.283Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:34.283Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:34.283Z\"}],\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"ANTHONY SMITH\",\"roleType\":\"BORROWER\",\"appId\":\"5022950\",\"teamMemberId\":\"SYSTEM\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:34.283Z\"}",
+            "metadata": {
+                "_interactionId": "73FE2751-D22E-493C-984C-1C7E45DC388B",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:34.525Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:33.078",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"4243750616\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:32.860Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:32.860Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:32.860Z\"}],\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"VOLODYMYR NAGORNYI\",\"roleType\":\"BORROWER\",\"appId\":\"5016090\",\"teamMemberId\":\"B2225258\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:32.860Z\"}",
+            "metadata": {
+                "_interactionId": "3C3149CD-7DD4-4481-9D5A-4C17FF45D7FC",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:33.078Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:32.538",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"4243750717\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:32.258Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:32.258Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:32.258Z\"}],\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"IRYNA NAGORNAYA\",\"roleType\":\"CO_BORROWER\",\"appId\":\"5016090\",\"teamMemberId\":\"B2225258\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:32.258Z\"}",
+            "metadata": {
+                "_interactionId": "CB3A7EB8-80A9-411B-A27D-909D8BEAB41A",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:32.537Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:32.092",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8186741358\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:31.867Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:31.867Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:31.867Z\"}],\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"ANNA PETROSYAN\",\"roleType\":\"BORROWER\",\"appId\":\"5288180\",\"teamMemberId\":\"SYSTEM\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:31.867Z\"}",
+            "metadata": {
+                "_interactionId": "406AB35C-B22E-414D-9703-2051FD8EB325",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:32.092Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:27.514",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5753173646\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:27-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:27-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:27-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:27-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Ashley Romero\",\"appId\":\"367069360\"},\"updatedAt\":\"2025-04-30T13:15:27-05:00\"}",
+            "metadata": {
+                "_interactionId": "wo7y0p5gba8t1lvt82qqouio",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:27.514Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:27.297",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7736561405\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:26.988Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:26.988Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:26.988Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:26.988Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:26.988Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:26.988Z\"}],\"contactStatus\":\"DONOTCALL\",\"contactStatusUpdateTimestamp\":\"2025-04-30T18:15:26.988Z\",\"metadata\":{\"sourceChannel\":\"VERBAL\",\"appId\":\"5008430\",\"uaiId\":\"0886812827134\",\"teamMemberId\":\"B2206522\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:26.988Z\"}",
+            "metadata": {
+                "_interactionId": "3354A8C6-218F-4B3A-83E6-615F73471898",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:27.297Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:26.869",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7323740277\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:26-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:26-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:26-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:26-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"TIMOTHY JOHNSON\",\"appId\":\"367068799\"},\"updatedAt\":\"2025-04-30T13:15:26-05:00\"}",
+            "metadata": {
+                "_interactionId": "mp2zhj4g7omc81q1o2hz9wkv",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:26.869Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:26.485",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"4052205641\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:26.283Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:26.283Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:26.283Z\"}],\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"SETH LAWRENCE\",\"roleType\":\"BORROWER\",\"appId\":\"5008410\",\"teamMemberId\":\"B2230262\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:26.283Z\"}",
+            "metadata": {
+                "_interactionId": "3733B63F-021C-4381-9DAB-661BFF4F7556",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:26.485Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:26.025",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5052502040\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:25.791Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:25.791Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:25.791Z\"}],\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"RICHARD LAWRENCE\",\"roleType\":\"CO_BORROWER\",\"appId\":\"5008410\",\"teamMemberId\":\"B2230262\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:25.791Z\"}",
+            "metadata": {
+                "_interactionId": "3B9B9DCB-64B9-4188-8C26-E90A786647E8",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:26.025Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:24.891",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8129898970\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:24-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:24-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:24-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:24-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Brandon j Duff\",\"appId\":\"367069290\"},\"updatedAt\":\"2025-04-30T13:15:24-05:00\"}",
+            "metadata": {
+                "_interactionId": "vyf31iqdy1o02be2e2xm60au",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:24.891Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:23.193",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9015150576\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:22.999Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:22.999Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:22.999Z\"}],\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"LAQUOITA CUNNINGHAM\",\"roleType\":\"BORROWER\",\"appId\":\"5011990\",\"teamMemberId\":\"SYSTEM\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:22.999Z\"}",
+            "metadata": {
+                "_interactionId": "A6A064A3-A1E2-484C-B040-815EED68194E",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:23.193Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:22.969",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5625226365\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:22-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:22-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:22-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:22-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Markus  Starks \",\"appId\":\"367069348\"},\"updatedAt\":\"2025-04-30T13:15:22-05:00\"}",
+            "metadata": {
+                "_interactionId": "nienrhyzmmvxy8r90ya0m6sa",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:22.969Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:22.589",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"6302575600\",\"phoneType\":\"HOME\",\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"JOSEPH BALUK\",\"roleType\":\"BORROWER\",\"uaiId\":\"7302668726108\",\"teamMemberId\":\"B2228614\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:22.247Z\"}",
+            "metadata": {
+                "_interactionId": "465CE621-FF51-49AB-84EA-6EBC0A8D895A",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:22.589Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:20.890",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5758940505\",\"phoneType\":\"HOME\",\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"SARAH SALCIDO\",\"roleType\":\"BORROWER\",\"uaiId\":\"0780996226583\",\"teamMemberId\":\"B2225979\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:20.608Z\"}",
+            "metadata": {
+                "_interactionId": "7F338C86-93A6-441C-A757-6DF226A2E41B",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:20.890Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:19.881",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7074007702\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:19.629Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:19.629Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:19.629Z\"}],\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"BRITTANY BRIMHALL\",\"roleType\":\"BORROWER\",\"appId\":\"5009430\",\"teamMemberId\":\"SYSTEM\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:19.629Z\"}",
+            "metadata": {
+                "_interactionId": "8F9F5ABD-AB54-4303-913C-295BFA854EA1",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:19.881Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:18.522",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9854740471\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:18.296Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:18.296Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:18.296Z\"}],\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"LOLA SCICLUNA\",\"roleType\":\"BORROWER\",\"appId\":\"5008300\",\"teamMemberId\":\"SYSTEM\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:18.296Z\"}",
+            "metadata": {
+                "_interactionId": "72106788-C07D-4176-AB91-A8689DB9FC71",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:18.522Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:15.981",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5052502040\",\"phoneType\":\"CELL\",\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"RICHARD LAWRENCE\",\"roleType\":\"CO_BORROWER\",\"appId\":\"5008410\",\"teamMemberId\":\"B2230262\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:15.741Z\"}",
+            "metadata": {
+                "_interactionId": "113BFD64-5826-4EDF-8C8A-FD8339FD1169",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:15.981Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:15.463",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"3023598209\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:15.206Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:15.206Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:15.206Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:15.206Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:15.206Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:15.206Z\"}],\"contactStatus\":\"DONOTCALL\",\"contactStatusUpdateTimestamp\":\"2025-04-30T18:15:15.206Z\",\"metadata\":{\"sourceChannel\":\"VERBAL\",\"roleType\":\"BORROWER\",\"appId\":\"5013160\",\"uaiId\":\"0886622827427\",\"teamMemberId\":\"B3300294\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:15.206Z\"}",
+            "metadata": {
+                "_interactionId": "43B0A225-021A-4888-8494-349697F58424",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:15.463Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:14.721",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7242199642\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:14.321Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:14.321Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:14.321Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:14.321Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:14.321Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:14.321Z\"}],\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"DEBORAH BROWNING\",\"roleType\":\"CO_BORROWER\",\"uaiId\":\"1219501426616\",\"teamMemberId\":\"H3305032\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:14.321Z\"}",
+            "metadata": {
+                "_interactionId": "0C596B81-DAA9-4685-912A-CD141234D274",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:14.721Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:12.123",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5414208968\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:12-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:12-05:00\"}],\"hasConsented\":true},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:12-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:12-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Isabel Aguirre\",\"appId\":\"367069305\"},\"updatedAt\":\"2025-04-30T13:15:12-05:00\"}",
+            "metadata": {
+                "_interactionId": "kyhb1yws28yrhtzlb4ig8e8u",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:12.123Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:10.504",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"4346078160\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:10.220Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:10.220Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:15:10.220Z\"}],\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"CHRISTY E BOOKER\",\"roleType\":\"BORROWER\",\"appId\":\"5005990\",\"teamMemberId\":\"B2220638\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:10.220Z\"}",
+            "metadata": {
+                "_interactionId": "82ADA23E-15A1-4D28-A4CB-858F337122B2",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:10.504Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:09.387",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8124482485\",\"phoneType\":\"HOME\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:09.076Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:09.076Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:09.076Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:09.076Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:09.076Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:15:09.076Z\"}],\"contactStatus\":\"INVALID\",\"contactStatusUpdateTimestamp\":\"2025-04-30T18:15:09.076Z\",\"metadata\":{\"sourceChannel\":\"SYSTEM\",\"customerName\":\"RICHARD MARCHIONE\",\"uaiId\":\"0773009126238\",\"teamMemberId\":\"H3305056\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:15:09.076Z\"}",
+            "metadata": {
+                "_interactionId": "4F55E8DD-03E2-4874-B788-B0F06CCABE40",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:09.387Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:09.161",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"6823094458\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:09-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:09-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:09-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:09-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Billy Pratt\",\"appId\":\"367069295\"},\"updatedAt\":\"2025-04-30T13:15:09-05:00\"}",
+            "metadata": {
+                "_interactionId": "l3ihn7xn7axxyxgtugjht2hf",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:09.161Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:08.289",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9432684835\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:08-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:08-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:08-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:08-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Travis Elder \",\"appId\":\"367069298\"},\"updatedAt\":\"2025-04-30T13:15:08-05:00\"}",
+            "metadata": {
+                "_interactionId": "nlfqbicddktr1i0mkq8r9miy",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:08.289Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:07.947",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"6143128338\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:07-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:07-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:07-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:07-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"CASSANDRA FRABOTT\",\"appId\":\"367069287\"},\"updatedAt\":\"2025-04-30T13:15:07-05:00\"}",
+            "metadata": {
+                "_interactionId": "w8ssysixj4lcpi65ckg60kl5",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:07.947Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:06.679",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7164658543\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:06-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:06-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:06-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:06-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Ieshi  Solomon\",\"appId\":\"367069285\"},\"updatedAt\":\"2025-04-30T13:15:06-05:00\"}",
+            "metadata": {
+                "_interactionId": "jbtdsucfr0rq43il51ezfplt",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:06.679Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:06.056",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"3303092098\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:06-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:06-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:06-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:06-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"VANESSA AUSTIN\",\"appId\":\"367069280\"},\"updatedAt\":\"2025-04-30T13:15:06-05:00\"}",
+            "metadata": {
+                "_interactionId": "r3xv4xwgekhacsrl0500zv2m",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:06.056Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:15:05.849",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"2072981381\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:05-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:15:05-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:05-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:15:05-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"David Thibeau\",\"appId\":\"367069274\"},\"updatedAt\":\"2025-04-30T13:15:05-05:00\"}",
+            "metadata": {
+                "_interactionId": "afa8t1cwoeuowy6mwslbv9qz",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:15:05.848Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:54.667",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"2707355769\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:54-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:54-05:00\"}],\"hasConsented\":true},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:54-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:54-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Zachary Vance\",\"appId\":\"367069211\"},\"updatedAt\":\"2025-04-30T13:14:54-05:00\"}",
+            "metadata": {
+                "_interactionId": "tgolbnjygqdz1ikf670p8vgr",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:54.667Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:54.667",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"3196311176\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:14:54.418Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:14:54.418Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:14:54.418Z\"}],\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"SAMIYA BATIE\",\"roleType\":\"BORROWER\",\"appId\":\"5013350\",\"teamMemberId\":\"SYSTEM\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:14:54.418Z\"}",
+            "metadata": {
+                "_interactionId": "F64ECB38-8BFE-4298-8471-582173CA4035",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:54.667Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:53.047",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"2627451517\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:53-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:53-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:53-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:53-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Terry  Hofmann\",\"appId\":\"367069244\"},\"updatedAt\":\"2025-04-30T13:14:53-05:00\"}",
+            "metadata": {
+                "_interactionId": "optrcxjplrlvf8tgcpmv54zt",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:53.047Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:52.191",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5052502040\",\"phoneType\":\"CELL\",\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"RICHARD LAWRENCE\",\"roleType\":\"CO_BORROWER\",\"appId\":\"5008410\",\"teamMemberId\":\"B2230262\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:14:51.967Z\"}",
+            "metadata": {
+                "_interactionId": "840B9C4F-6E4A-43FA-9AC8-BCC5CD929963",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:52.191Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:51.826",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"2085186310\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:14:51.612Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:14:51.612Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:14:51.612Z\"}],\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"ANGELA RASH\",\"roleType\":\"BORROWER\",\"appId\":\"5010540\",\"teamMemberId\":\"SYSTEM\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:14:51.612Z\"}",
+            "metadata": {
+                "_interactionId": "4565FA5E-A463-4CF0-B3F8-EE060CBD6442",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:51.826Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:49.225",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"4192124212\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:49-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:49-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:49-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:49-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Austin Bailey\",\"appId\":\"367069218\"},\"updatedAt\":\"2025-04-30T13:14:49-05:00\"}",
+            "metadata": {
+                "_interactionId": "ep8yjnju6c6uqyleacqpra73",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:49.225Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:48.943",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9547781676\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:48-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:48-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:48-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:48-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"ANA CURBELO HERNANDEZ\",\"appId\":\"367069185\"},\"updatedAt\":\"2025-04-30T13:14:48-05:00\"}",
+            "metadata": {
+                "_interactionId": "t9qfpjxhx67hpcn3j9btyyrd",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:48.943Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:45.784",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"2707355769\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:45-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:45-05:00\"}],\"hasConsented\":true},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:45-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:45-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Zachary Vance\",\"appId\":\"367069211\"},\"updatedAt\":\"2025-04-30T13:14:45-05:00\"}",
+            "metadata": {
+                "_interactionId": "q9bj2psaowq61yb8y71xhzrx",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:45.784Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:45.744",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8032302445\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:44.168Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:44.168Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:44.168Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:14:44.168Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:14:44.168Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:14:44.168Z\"}],\"contactStatus\":\"PREFERRED\",\"contactStatusUpdateTimestamp\":\"2025-04-30T18:14:44.168Z\",\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"RICHARD LOGAN\",\"roleType\":\"BORROWER\",\"uaiId\":\"0914379426786\",\"teamMemberId\":\"B2231669\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:14:44.168Z\"}",
+            "metadata": {
+                "_interactionId": "06083124-4F01-4443-9E3A-E63ECDE9BBE6",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:45.744Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:45.689",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"6463292152\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:45-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:45-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:45-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:45-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"FELIX CRUZ\",\"appId\":\"367069213\"},\"updatedAt\":\"2025-04-30T13:14:45-05:00\"}",
+            "metadata": {
+                "_interactionId": "ofkf4losov9dzj9plq1wqeq7",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:45.689Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:45.184",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9172845303\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:45-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:45-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:45-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:45-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Angelice Maldonado\",\"appId\":\"367069215\"},\"updatedAt\":\"2025-04-30T13:14:45-05:00\"}",
+            "metadata": {
+                "_interactionId": "hy6htvx1vuqsaajepshhor4v",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:45.184Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:43.120",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"3174854156\",\"phoneType\":\"HOME\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:42.899Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:42.899Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:42.899Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:42.899Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:42.899Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:42.899Z\"}],\"contactStatus\":\"INVALID\",\"contactStatusUpdateTimestamp\":\"2025-04-30T18:14:42.899Z\",\"metadata\":{\"sourceChannel\":\"SYSTEM\",\"customerName\":\"RICHARD MARCHIONE\",\"uaiId\":\"0773009126238\",\"teamMemberId\":\"H3305056\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:14:42.899Z\"}",
+            "metadata": {
+                "_interactionId": "4985DB6E-9665-4345-B38A-09954FD37A90",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:43.120Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:40.677",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"2563142456\",\"phoneType\":\"HOME\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:40.399Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:40.399Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:40.399Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:40.399Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:40.399Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:40.399Z\"}],\"contactStatus\":\"INVALID\",\"contactStatusUpdateTimestamp\":\"2025-04-30T18:14:40.399Z\",\"metadata\":{\"sourceChannel\":\"SYSTEM\",\"customerName\":\"MITZI DOWDY\",\"uaiId\":\"1001017027128\",\"teamMemberId\":\"B3302157\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:14:40.399Z\"}",
+            "metadata": {
+                "_interactionId": "0D36B7E9-E0AC-44CD-8606-084D08EF1B31",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:40.676Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:38.575",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"4178481872\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:38-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:38-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:38-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:38-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Mabel Phillips\",\"appId\":\"367069189\"},\"updatedAt\":\"2025-04-30T13:14:38-05:00\"}",
+            "metadata": {
+                "_interactionId": "v0xa6kbhy0aglk35xxwuad7a",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:38.574Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:36.939",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5863836969\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:36-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:36-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:36-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:36-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"David Poynter\",\"appId\":\"367069124\"},\"updatedAt\":\"2025-04-30T13:14:36-05:00\"}",
+            "metadata": {
+                "_interactionId": "yu1eqbhjczaduilsr9dde56b",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:36.939Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:36.700",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5172573359\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:36-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:36-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:36-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:36-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Deverion Jefferson\",\"appId\":\"367069191\"},\"updatedAt\":\"2025-04-30T13:14:36-05:00\"}",
+            "metadata": {
+                "_interactionId": "zit0hcstdy6v1oh9qmrwibf0",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:36.700Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:36.596",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"2627451517\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:36-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:36-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:36-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:36-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Terry  Hofmann\",\"appId\":\"367069188\"},\"updatedAt\":\"2025-04-30T13:14:36-05:00\"}",
+            "metadata": {
+                "_interactionId": "dnk72xcjq5yafjqvafff49jn",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:36.596Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:36.093",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7706141081\",\"phoneType\":\"HOME\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:34.652Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:34.652Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:34.652Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:34.652Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:34.652Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:34.652Z\"}],\"contactStatus\":\"DONOTCALL\",\"contactStatusUpdateTimestamp\":\"2025-04-30T18:14:34.652Z\",\"metadata\":{\"sourceChannel\":\"VERBAL\",\"roleType\":\"BORROWER\",\"uaiId\":\"7514488526167\",\"teamMemberId\":\"B2229916\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:14:34.652Z\"}",
+            "metadata": {
+                "_interactionId": "8B86F68C-0BB2-4D1F-92B1-DCD3DC591400",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:36.093Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:36.036",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9547781676\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:36-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:36-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:36-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:36-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"ANA CURBELO HERNANDEZ\",\"appId\":\"367069185\"},\"updatedAt\":\"2025-04-30T13:14:36-05:00\"}",
+            "metadata": {
+                "_interactionId": "tocynv5rajiykcju7kgccjcl",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:36.036Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:35.284",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9172845303\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:35-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:35-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:35-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:35-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Angelice Maldonado\",\"appId\":\"367069186\"},\"updatedAt\":\"2025-04-30T13:14:35-05:00\"}",
+            "metadata": {
+                "_interactionId": "mbrlxeokxz3gerj57ujmv7aj",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:35.284Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:34.887",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9545513617\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:34-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:34-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:34-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:34-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Paige Miranda\",\"appId\":\"367069177\"},\"updatedAt\":\"2025-04-30T13:14:34-05:00\"}",
+            "metadata": {
+                "_interactionId": "rlqabtwd5d1db052zdxq3wt2",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:34.887Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:34.040",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5094509297\",\"phoneType\":\"CELL\",\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"SARA K ST.PIERRE\",\"roleType\":\"BORROWER\",\"appId\":\"5011870\",\"teamMemberId\":\"B2224744\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:14:33.802Z\"}",
+            "metadata": {
+                "_interactionId": "97A1925E-7CD8-4082-85C4-EAD3E5BA5F81",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:34.040Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:33.330",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7653930661\",\"phoneType\":\"HOME\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:33.124Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:33.124Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:33.124Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:33.124Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:33.124Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:33.124Z\"}],\"contactStatus\":\"INVALID\",\"contactStatusUpdateTimestamp\":\"2025-04-30T18:14:33.124Z\",\"metadata\":{\"sourceChannel\":\"SYSTEM\",\"customerName\":\"RICHARD MARCHIONE\",\"uaiId\":\"0773009126238\",\"teamMemberId\":\"H3305056\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:14:33.124Z\"}",
+            "metadata": {
+                "_interactionId": "2A5D6418-8F4C-440C-8793-4D425012C0E7",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:33.330Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:32.461",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"6239800572\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:32-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:32-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:32-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:32-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Robert Romero\",\"appId\":\"367069173\"},\"updatedAt\":\"2025-04-30T13:14:32-05:00\"}",
+            "metadata": {
+                "_interactionId": "t2dzrcxfvgmg0o600izkom9f",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:32.461Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:32.333",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8452104837\",\"phoneType\":\"HOME\",\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"MONIQUE FEASTER\",\"roleType\":\"BORROWER\",\"appId\":\"5028440\",\"teamMemberId\":\"B3301023\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:14:32.086Z\"}",
+            "metadata": {
+                "_interactionId": "BDAEB4B3-0EB7-4736-889D-413E95B17CB3",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:32.332Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:28.615",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9072055314\",\"phoneType\":\"HOME\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:28.300Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:28.300Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:28.300Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:28.300Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:28.300Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:28.300Z\"}],\"metadata\":{\"sourceChannel\":\"SKIP_TRACE\",\"customerName\":\"KEANA TRUSTY\",\"uaiId\":\"1009933427165\",\"teamMemberId\":\"B2227483\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:14:28.300Z\"}",
+            "metadata": {
+                "_interactionId": "1A2CFCBF-4FF5-47AB-A06A-8D2BDCE7922F",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:28.615Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:27.535",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8452104837\",\"phoneType\":\"HOME\",\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"MONIQUE FEASTER\",\"roleType\":\"BORROWER\",\"appId\":\"5028440\",\"teamMemberId\":\"B3301023\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:14:27.343Z\"}",
+            "metadata": {
+                "_interactionId": "5193B6BB-9D8E-4CF3-835C-09FB4CAE26B6",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:27.534Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:25.036",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9036767864\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:25-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:25-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:25-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:25-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"aysha sills\",\"appId\":\"367069154\"},\"updatedAt\":\"2025-04-30T13:14:25-05:00\"}",
+            "metadata": {
+                "_interactionId": "fzdqwx16y0g7ptrvxcbzbzhn",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:25.036Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:23.972",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8452104837\",\"phoneType\":\"HOME\",\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"MONIQUE FEASTER\",\"roleType\":\"BORROWER\",\"appId\":\"5028440\",\"teamMemberId\":\"B3301023\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:14:23.767Z\"}",
+            "metadata": {
+                "_interactionId": "E3821D70-C882-4A70-9144-7B137A016BAB",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:23.972Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:23.822",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5172573359\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:23-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:23-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:23-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:23-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Deverion Jefferson\",\"appId\":\"367069150\"},\"updatedAt\":\"2025-04-30T13:14:23-05:00\"}",
+            "metadata": {
+                "_interactionId": "so6f7fgch58yeocsph8qp1wh",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:23.822Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:23.112",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5177157325\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:23-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:23-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:23-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:23-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Christine Marshall\",\"appId\":\"367069147\"},\"updatedAt\":\"2025-04-30T13:14:23-05:00\"}",
+            "metadata": {
+                "_interactionId": "whq3vhbp3puxte3b052usx81",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:23.112Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:22.728",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7653937645\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:22.508Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:22.508Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:22.508Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:22.508Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:22.508Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:22.508Z\"}],\"contactStatus\":\"INVALID\",\"contactStatusUpdateTimestamp\":\"2025-04-30T18:14:22.508Z\",\"metadata\":{\"sourceChannel\":\"SYSTEM\",\"customerName\":\"RICHARD MARCHIONE\",\"uaiId\":\"0773009126238\",\"teamMemberId\":\"H3305056\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:14:22.508Z\"}",
+            "metadata": {
+                "_interactionId": "6F3D80A6-8906-4383-8A4D-D431071E1CB0",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:22.728Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:18.990",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9163988112\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:18-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:18-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:18-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:18-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"JESUS HARO\",\"appId\":\"367069065\"},\"updatedAt\":\"2025-04-30T13:14:18-05:00\"}",
+            "metadata": {
+                "_interactionId": "mgw4zlkes30asachvvvalqov",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:18.989Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:18.696",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5863836969\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:18-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:18-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:18-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:18-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"David Poynter\",\"appId\":\"367069124\"},\"updatedAt\":\"2025-04-30T13:14:18-05:00\"}",
+            "metadata": {
+                "_interactionId": "n6oi2wtcxuk949tgv4yl1qef",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:18.695Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:13.212",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"6062311168\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:12.976Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:12.976Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:12.976Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:12.976Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:12.976Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:12.976Z\"}],\"metadata\":{\"sourceChannel\":\"SKIP_TRACE\",\"customerName\":\"LATOSHA CARMON\",\"uaiId\":\"6370834426448\",\"teamMemberId\":\"B2217340\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:14:12.976Z\"}",
+            "metadata": {
+                "_interactionId": "05ECE790-E7EA-4ADE-957D-D7ACEE3E4DC3",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:13.212Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:12.879",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5754899401\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:14:12.601Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:14:12.601Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:14:12.601Z\"}],\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"GRACE ORTEGA\",\"roleType\":\"BORROWER\",\"appId\":\"5019790\",\"teamMemberId\":\"SYSTEM\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:14:12.601Z\"}",
+            "metadata": {
+                "_interactionId": "470B7443-E95C-4CF0-81EF-DBE9A8ECE4FE",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:12.879Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:10.967",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5176770100\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:10-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:10-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:10-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:10-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"ALICIA SNELL\",\"appId\":\"367069108\"},\"updatedAt\":\"2025-04-30T13:14:10-05:00\"}",
+            "metadata": {
+                "_interactionId": "kdzop4kwitposq9ecw7ujd0b",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:10.967Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:10.785",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7659607157\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:10.468Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:10.468Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:10.468Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:10.468Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:10.468Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:10.468Z\"}],\"contactStatus\":\"INVALID\",\"contactStatusUpdateTimestamp\":\"2025-04-30T18:14:10.468Z\",\"metadata\":{\"sourceChannel\":\"SYSTEM\",\"customerName\":\"CYNTHIA MARCHIONE\",\"uaiId\":\"0773009126238\",\"teamMemberId\":\"H3305056\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:14:10.468Z\"}",
+            "metadata": {
+                "_interactionId": "8FBE013F-1316-478C-B10D-2DC0F527F834",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:10.785Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:10.676",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7137726337\",\"phoneType\":\"HOME\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:10.300Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:10.300Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:10.300Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:10.300Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:10.300Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:10.300Z\"}],\"contactStatus\":\"INVALID\",\"contactStatusUpdateTimestamp\":\"2025-04-30T18:14:10.300Z\",\"metadata\":{\"sourceChannel\":\"SYSTEM\",\"customerName\":\"ARTURO ALVARADO\",\"uaiId\":\"0985351927051\",\"teamMemberId\":\"B5045874\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:14:10.300Z\"}",
+            "metadata": {
+                "_interactionId": "7DF3AC33-767A-40CD-B540-830C85499D0E",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:10.676Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:10.297",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"6264561292\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:14:10.055Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:14:10.055Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:14:10.055Z\"}],\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"MENG UNG\",\"roleType\":\"BORROWER\",\"appId\":\"5020790\",\"teamMemberId\":\"SYSTEM\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:14:10.055Z\"}",
+            "metadata": {
+                "_interactionId": "8B5F60CC-2493-46B2-8E28-9A856E0B4421",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:10.297Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:09.557",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"2164400137\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:09-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:09-05:00\"}],\"hasConsented\":true},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:09-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:09-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Michael Goldstone\",\"appId\":\"367069106\"},\"updatedAt\":\"2025-04-30T13:14:09-05:00\"}",
+            "metadata": {
+                "_interactionId": "ppfhlybmabvqgig4e556r4xx",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:09.557Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:08.728",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5305266766\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:08-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:08-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:08-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:08-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Tessa Eichelberger \",\"appId\":\"367069073\"},\"updatedAt\":\"2025-04-30T13:14:08-05:00\"}",
+            "metadata": {
+                "_interactionId": "a7ldn9ony0r3wxyu65dkb6a9",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:08.727Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:07.254",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8643884141\",\"phoneType\":\"HOME\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:07.055Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:07.055Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:07.055Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:07.055Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:07.055Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:14:07.055Z\"}],\"metadata\":{\"sourceChannel\":\"SKIP_TRACE\",\"customerName\":\"TAUDRE HEARST\",\"uaiId\":\"0850934526524\",\"teamMemberId\":\"B5041077\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:14:07.055Z\"}",
+            "metadata": {
+                "_interactionId": "DA2BF187-B68C-4FE2-A38B-A5E82CA2CA48",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:07.254Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:04.364",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7736330448\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:04-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:14:04-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:04-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:14:04-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"TAURO JENKINS\",\"appId\":\"367069089\"},\"updatedAt\":\"2025-04-30T13:14:04-05:00\"}",
+            "metadata": {
+                "_interactionId": "mq14fpfi62om3e3xhbt3spj0",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:04.364Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:00.732",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"6077754555\",\"phoneType\":\"HOME\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:58.967Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:58.967Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:58.967Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:58.967Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:58.967Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:58.967Z\"}],\"contactStatus\":\"DONOTCALL\",\"contactStatusUpdateTimestamp\":\"2025-04-30T18:13:58.967Z\",\"metadata\":{\"sourceChannel\":\"VERBAL\",\"appId\":\"5017610\",\"uaiId\":\"6589831825790\",\"teamMemberId\":\"B2229860\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:13:58.967Z\"}",
+            "metadata": {
+                "_interactionId": "1E10CF69-9D4E-436E-9E5B-504D87C57141",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:00.732Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:14:00.362",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7342802715\",\"phoneType\":\"HOME\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:14:00.094Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:14:00.094Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:14:00.094Z\"}],\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"RAY EDDINGTON\",\"roleType\":\"BORROWER\",\"appId\":\"5029450\",\"teamMemberId\":\"SYSTEM\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:14:00.094Z\"}",
+            "metadata": {
+                "_interactionId": "01C8BAAB-E450-4434-9F8C-BCFC1DFDA421",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:14:00.362Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:59.190",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7703693483\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:13:58.997Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:13:58.997Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:13:58.997Z\"}],\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"JONATHAN BLYZES\",\"roleType\":\"BORROWER\",\"appId\":\"5011480\",\"teamMemberId\":\"SYSTEM\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:13:58.997Z\"}",
+            "metadata": {
+                "_interactionId": "692F2D18-55BD-41E0-88B3-FC951E86536B",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:59.190Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:58.472",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5305266766\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:58-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:58-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:58-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:58-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Tessa Eichelberger \",\"appId\":\"367069073\"},\"updatedAt\":\"2025-04-30T13:13:58-05:00\"}",
+            "metadata": {
+                "_interactionId": "uxd948nnlokcf6eo8in0q6hr",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:58.472Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:55.897",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"3602198040\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:55-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:55-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:55-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:55-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Martin Houser\",\"appId\":\"367069070\"},\"updatedAt\":\"2025-04-30T13:13:55-05:00\"}",
+            "metadata": {
+                "_interactionId": "lg16pr5q8cnochase02y0cs4",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:55.897Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:55.637",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7028499224\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:55-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:55-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:55-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:55-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Laterra  Lewis \",\"appId\":\"367069069\"},\"updatedAt\":\"2025-04-30T13:13:55-05:00\"}",
+            "metadata": {
+                "_interactionId": "pdvfkki1yxg4j4kb6m1ip5ww",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:55.636Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:55.474",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9163988112\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:55-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:55-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:55-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:55-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"JESUS HARO\",\"appId\":\"367069065\"},\"updatedAt\":\"2025-04-30T13:13:55-05:00\"}",
+            "metadata": {
+                "_interactionId": "a8h6s9vhkiive65gseu8ipmm",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:55.474Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:55.297",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8062835422\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:55-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:55-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:55-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:55-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"JOHN ROLLON\",\"appId\":\"367069066\"},\"updatedAt\":\"2025-04-30T13:13:55-05:00\"}",
+            "metadata": {
+                "_interactionId": "et3e5rqvsnhmffo5ee10gl94",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:55.296Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:53.556",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8649937276\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:53.223Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:53.223Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:53.223Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:53.223Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:53.223Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:53.223Z\"}],\"metadata\":{\"sourceChannel\":\"SKIP_TRACE\",\"customerName\":\"TAUDRE HEARST\",\"uaiId\":\"0850934526524\",\"teamMemberId\":\"B5041077\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:13:53.223Z\"}",
+            "metadata": {
+                "_interactionId": "A0C134D2-FD25-4C68-9799-D3D7EFE09FD8",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:53.556Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:53.426",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7654526613\",\"phoneType\":\"HOME\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:53.188Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:53.188Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:53.188Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:53.188Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:53.188Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:53.188Z\"}],\"metadata\":{\"sourceChannel\":\"SYSTEM\",\"customerName\":\"RICHARD MARCHIONE\",\"uaiId\":\"0773009126238\",\"teamMemberId\":\"H3305056\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:13:53.188Z\"}",
+            "metadata": {
+                "_interactionId": "7F67A805-50A4-4802-887C-AD22643C5B5B",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:53.426Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:50.090",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"2563142456\",\"phoneType\":\"HOME\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:48.664Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:48.664Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:48.664Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:48.664Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:48.664Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:48.664Z\"}],\"metadata\":{\"sourceChannel\":\"SKIP_TRACE\",\"customerName\":\"MITZI DOWDY\",\"uaiId\":\"1001017027128\",\"teamMemberId\":\"B3302157\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:13:48.664Z\"}",
+            "metadata": {
+                "_interactionId": "EFB8C92E-9CC3-4744-AFB1-9ECFC15FD153",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:50.090Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:49.307",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5094509297\",\"phoneType\":\"CELL\",\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"SARA K ST.PIERRE\",\"roleType\":\"BORROWER\",\"appId\":\"5011870\",\"teamMemberId\":\"B2224744\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:13:49.107Z\"}",
+            "metadata": {
+                "_interactionId": "D084DFEF-A4BC-4737-A439-1B49688AF981",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:49.307Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:46.794",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7862054213\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:46-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:46-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:46-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:46-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"NICHOLAS CLARINGTON\",\"appId\":\"367069052\"},\"updatedAt\":\"2025-04-30T13:13:46-05:00\"}",
+            "metadata": {
+                "_interactionId": "gr7vbvztu6skzmczw2cn8aep",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:46.794Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:45.861",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"5094509297\",\"phoneType\":\"CELL\",\"metadata\":{\"sourceChannel\":\"VERBAL\",\"customerName\":\"SARA K ST.PIERRE\",\"roleType\":\"BORROWER\",\"appId\":\"5011870\",\"teamMemberId\":\"B2224744\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:13:45.533Z\"}",
+            "metadata": {
+                "_interactionId": "92DA9904-498A-4CAD-9F88-A9D8BD75203E",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:45.861Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:44.228",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9157774000\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:44-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:44-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:44-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:44-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Miguel Medina\",\"appId\":\"367068899\"},\"updatedAt\":\"2025-04-30T13:13:44-05:00\"}",
+            "metadata": {
+                "_interactionId": "xzlqbpwmld856ehy55zsris6",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:44.228Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:40.931",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7068296226\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:40-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:40-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:40-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:40-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Dylan Jones\",\"appId\":\"367069038\"},\"updatedAt\":\"2025-04-30T13:13:40-05:00\"}",
+            "metadata": {
+                "_interactionId": "hut9ghbxfhik2jsj53tnkegk",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:40.931Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:40.589",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7012133976\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:40-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:40-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:40-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:40-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Casey Aarvig\",\"appId\":\"367069033\"},\"updatedAt\":\"2025-04-30T13:13:40-05:00\"}",
+            "metadata": {
+                "_interactionId": "gsjz10m0rnna4a4c4d4pzi5v",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:40.589Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:40.391",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"3475705360\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:40.141Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:40.141Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:40.141Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:40.141Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:40.141Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:40.141Z\"}],\"metadata\":{\"sourceChannel\":\"APPLICATION\",\"customerName\":\"SABRINA DE\",\"roleType\":\"BORROWER\",\"uaiId\":\"6680921325828\",\"teamMemberId\":\"H2201033\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:13:40.141Z\"}",
+            "metadata": {
+                "_interactionId": "4E3B7F22-6D2B-41A3-B030-E7385884FFC5",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:40.391Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:40.304",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"8503771221\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:40-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:40-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:40-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:40-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"William Freeman\",\"appId\":\"367069035\"},\"updatedAt\":\"2025-04-30T13:13:40-05:00\"}",
+            "metadata": {
+                "_interactionId": "o9qjw2taml1roeotg2cp9dtl",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:40.304Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:39.252",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7705924436\",\"phoneType\":\"HOME\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:38.979Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:38.979Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:38.979Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:38.979Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:38.979Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:38.979Z\"}],\"contactStatus\":\"INVALID\",\"contactStatusUpdateTimestamp\":\"2025-04-30T18:13:38.979Z\",\"metadata\":{\"sourceChannel\":\"SYSTEM\",\"customerName\":\"KRISTIN PITARYS\",\"uaiId\":\"4571812326829\",\"teamMemberId\":\"B2229384\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:13:38.979Z\"}",
+            "metadata": {
+                "_interactionId": "95A90C05-A62E-4AFB-9D8B-8115DC2BCAAF",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:39.252Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:37.743",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"6614462390\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:37-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:37-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:37-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:37-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"ARACELI HERRERA\",\"appId\":\"367069036\"},\"updatedAt\":\"2025-04-30T13:13:37-05:00\"}",
+            "metadata": {
+                "_interactionId": "sffqo9yuozl5uc6kne2eedhb",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:37.743Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:34.186",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7085742484\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:34-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:34-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:34-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:34-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Dorothy  Williams \",\"appId\":\"367068811\"},\"updatedAt\":\"2025-04-30T13:13:34-05:00\"}",
+            "metadata": {
+                "_interactionId": "qpkqmqm015hmsku9iy3sh3x8",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:34.186Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:32.046",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7204201172\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:32-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:32-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:32-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:32-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Israel Carreon\",\"appId\":\"367068952\"},\"updatedAt\":\"2025-04-30T13:13:32-05:00\"}",
+            "metadata": {
+                "_interactionId": "mbcvxyesnx3d4cpopn9pypw1",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:32.045Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:29.419",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7656555428\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:29.197Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:29.197Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:29.197Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:29.197Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:29.197Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:29.197Z\"}],\"metadata\":{\"sourceChannel\":\"SYSTEM\",\"customerName\":\"RICHARD MARCHIONE\",\"uaiId\":\"0773009126238\",\"teamMemberId\":\"H3305056\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:13:29.197Z\"}",
+            "metadata": {
+                "_interactionId": "D2AB2C4E-BAE8-47D2-8F2C-4B972700B7B9",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:29.419Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:28.919",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"6466105541\",\"phoneType\":\"HOME\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:28.646Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:28.646Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:28.646Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:28.646Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:28.646Z\"}],\"hasConsented\":false,\"updatedAt\":\"2025-04-30T18:13:28.646Z\"}],\"contactStatus\":\"INVALID\",\"contactStatusUpdateTimestamp\":\"2025-04-30T18:13:28.646Z\",\"metadata\":{\"sourceChannel\":\"SYSTEM\",\"customerName\":\"FRANCISCO MARTI\",\"uaiId\":\"4041577024795\",\"teamMemberId\":\"H2231838\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:13:28.646Z\"}",
+            "metadata": {
+                "_interactionId": "A059651E-D4EB-4BA7-810D-BB25029CAE61",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:28.919Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:28.570",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"7725790003\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:13:28.393Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:13:28.393Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:13:28.393Z\"}],\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"RAYMOND FLORES\",\"roleType\":\"BORROWER\",\"appId\":\"5014480\",\"teamMemberId\":\"SYSTEM\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:13:28.393Z\"}",
+            "metadata": {
+                "_interactionId": "426EE0A5-C0E0-4E3D-BF56-FB7274B5F299",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:28.570Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:26.738",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"2153160048\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:13:26.486Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:13:26.486Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:13:26.486Z\"}],\"metadata\":{\"sourceChannel\":\"NOT_PROVIDED\",\"customerName\":\"DAVID CARSON\",\"roleType\":\"BORROWER\",\"appId\":\"5026040\",\"teamMemberId\":\"SYSTEM\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:13:26.486Z\"}",
+            "metadata": {
+                "_interactionId": "DE09C075-5942-4EAC-BBC1-29354D375AB3",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:26.738Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:24.282",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"9167064634\",\"phoneType\":\"CELL\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:24-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":false,\"updatedAt\":\"2025-04-30T13:13:24-05:00\"}],\"hasConsented\":false},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:24-05:00\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T13:13:24-05:00\"}],\"hasConsented\":true}],\"metadata\":{\"sourceChannel\":\"WEB\",\"ipAddress\":\"127.0.0.1\",\"customerName\":\"Mikal Jones\",\"appId\":\"367068992\"},\"updatedAt\":\"2025-04-30T13:13:24-05:00\"}",
+            "metadata": {
+                "_interactionId": "hm88m061qhdk7no83mhg95zc",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:24.282Z"
+        }
+    },
+    {
+        "@timestamp": "2025-04-30 18:13:21.535",
+        "@message": {
+            "level": "DEBUG",
+            "message": "updatePhoneNumberConsents input object: {\"phoneNumber\":\"6466105541\",\"phoneType\":\"HOME\",\"consents\":[{\"businessFunction\":\"PROMOTIONAL\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:13:21.291Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:13:21.291Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:13:21.291Z\"},{\"businessFunction\":\"SERVICING\",\"channels\":[{\"communicationsChannel\":\"DIALER\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:13:21.291Z\"},{\"communicationsChannel\":\"SMS\",\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:13:21.291Z\"}],\"hasConsented\":true,\"updatedAt\":\"2025-04-30T18:13:21.291Z\"}],\"metadata\":{\"sourceChannel\":\"SKIP_TRACE\",\"customerName\":\"FRANCISCO MARTI\",\"roleType\":\"BORROWER\",\"uaiId\":\"4041577024795\",\"teamMemberId\":\"H2231838\",\"sourceApplication\":\"CLASS\"},\"updatedAt\":\"2025-04-30T18:13:21.291Z\"}",
+            "metadata": {
+                "_interactionId": "58E80C15-4C6B-498A-A31A-EC60AF222A0E",
+                "_serverName": "consumer-communication-subgraph",
+                "_userId": null
+            },
+            "timestamp": "2025-04-30T18:13:21.534Z"
+        }
+    }
+]
